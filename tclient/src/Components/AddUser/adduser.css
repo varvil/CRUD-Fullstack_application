@@ -1,0 +1,59 @@
+.add__wrapper {
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.input__section {
+    padding: 40px;
+}
+
+.input__section input {
+    margin: 0;
+    margin-top: 1rem;
+    padding: 0;
+    width: 200px;
+    height: 30px;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+}
+
+.input__section select {
+    margin-top: 3rem;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+
+.input__section i {
+    margin-right: 1.5rem;
+    font-size: 24px;
+}
+
+.add__button {
+    margin-top: 3rem;
+    background-color: rgb(65, 126, 206);
+    border-radius: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    color: #FFFF;
+    padding: 10px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    transition: 0.5s all;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    cursor: pointer;
+}
+
+.add__button:hover {
+    transition: 0.5s all;
+    background-color: rgb(105, 154, 218)
+}
+
+

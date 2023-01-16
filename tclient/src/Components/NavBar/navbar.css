@@ -1,0 +1,26 @@
+.navbar__container {
+    margin: auto;
+    margin-top: 5.5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 200px;
+}
+
+.navbar__contentL ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 40px;
+    margin-top: 2rem;
+}
+
+.nav__button {
+    text-decoration: none;
+    color: rgb(104, 104, 104);
+}
+
+.nav__button:hover {
+    color: rgb(15, 15, 15);
+
+}

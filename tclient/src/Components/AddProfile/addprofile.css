@@ -1,0 +1,22 @@
+.addprofile__content {
+    margin: auto;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 40px;
+    width: 400px;
+    height: 300px;
+}
+
+.addprofile__content h3 {
+    padding: 40px;
+}
+
+.addprofile__input__section {
+    margin: 0;
+}
+
+.addprofile__input__section input {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+}
