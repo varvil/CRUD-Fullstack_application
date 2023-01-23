@@ -55,9 +55,3 @@ You are ready to go, now backend is running and you can access all the API endpo
 /api/profiles/{id} [GET, POST, PUT, DELETE]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Screenshots
-
-React client : https://git.vamk.fi/attachments/ea1f2067-d5e4-4355-b0db-15f882098a9a?raw=true
-<br></br>
-Postman : https://git.vamk.fi/attachments/45f65424-b28d-47c9-893e-0d56e681a989?raw=true
